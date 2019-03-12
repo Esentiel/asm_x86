@@ -26,5 +26,8 @@
     <MASM Include="IntegerMulDiv_.asm">
       <Filter>Source Files</Filter>
     </MASM>
+    <MASM Include="CalculateSums_.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
   </ItemGroup>
 </Project>

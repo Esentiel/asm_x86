@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <MASM Include="CalcSum_.asm" />
+    <MASM Include="CalculateSums_.asm" />
     <MASM Include="IntegerMulDiv_.asm" />
   </ItemGroup>
   <ItemGroup>
